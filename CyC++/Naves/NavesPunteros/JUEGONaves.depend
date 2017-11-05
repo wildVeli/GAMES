@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483706076 source:c:\users\casa\desktop\dam\programacion\juegonaves\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+

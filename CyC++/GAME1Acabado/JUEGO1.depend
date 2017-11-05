@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1483914078 source:c:\users\casa\desktop\dam\programacion\juego1\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1484162146 source:c:\users\casa\desktop\dam\programacion\proyectos personales\juego1acabado\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+

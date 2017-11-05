@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1482667604 source:c:\users\casa\desktop\dam\programacion\juego1versionb\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1484165467 source:c:\users\casa\desktop\dam\programacion\proyectos personales\juego1navesclasses\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<vector>
+	<time.h>
+	<cstdlib>
+
