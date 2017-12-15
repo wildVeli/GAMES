@@ -1,0 +1,1 @@
+To launch the jar you need the src folder in the same folder
